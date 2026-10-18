@@ -1,0 +1,62 @@
+
+body{
+    background-color: gray;
+}
+.outlier{
+    background: white;
+    padding: 20px;
+    margin-bottom: 30px;
+     border-radius: 20px;
+     margin: 100px;
+
+
+    height: 100px;
+    border: 1px solid black;
+    display: block;
+    
+
+}
+.test{
+    margin-bottom: 30px;
+    background: white;
+    padding:20px ;
+     border-radius: 20px;
+     margin: 100px;
+     
+    height: 100px;
+    border: 1px solid black;
+
+    
+
+}
+.test1{
+     margin-bottom: 30px;
+    background: white;
+    padding:20px ;
+    border-radius: 20px;
+    margin: 100px;
+    border: 1px solid black;
+    
+    height: 100px;
+
+}
+
+button{
+    border: 1px solid black;
+
+    
+    
+    border-radius: 20px;
+    padding: 10px;
+    color: black;
+    box-shadow: 2px 2px 2px;
+    font-size: 20px;
+
+
+
+}
+.box{
+    font-family: 'Courier New', Courier, monospace;
+    margin-bottom: 20px;
+    
+}
